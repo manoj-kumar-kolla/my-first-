@@ -1,3 +1,3 @@
 # my-first-
 This is my first repo 
-Author-Manoj Kuamr
+Author-Manoj Kumar
